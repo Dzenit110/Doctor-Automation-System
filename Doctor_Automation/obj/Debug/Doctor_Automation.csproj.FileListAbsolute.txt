@@ -1,0 +1,17 @@
+C:\Users\Dzenit\source\repos\Doctor_Automation\Doctor_Automation\obj\Debug\Doctor_Automation.csproj.AssemblyReference.cache
+C:\Users\Dzenit\source\repos\Doctor_Automation\Doctor_Automation\obj\Debug\Doctor_Automation.Properties.Resources.resources
+C:\Users\Dzenit\source\repos\Doctor_Automation\Doctor_Automation\obj\Debug\Doctor_Automation.csproj.GenerateResource.cache
+C:\Users\Dzenit\source\repos\Doctor_Automation\Doctor_Automation\obj\Debug\Doctor_Automation.csproj.CoreCompileInputs.cache
+C:\Users\Dzenit\source\repos\Doctor_Automation\Doctor_Automation\bin\Debug\Doctor_Automation.exe.config
+C:\Users\Dzenit\source\repos\Doctor_Automation\Doctor_Automation\bin\Debug\Doctor_Automation.exe
+C:\Users\Dzenit\source\repos\Doctor_Automation\Doctor_Automation\bin\Debug\Doctor_Automation.pdb
+C:\Users\Dzenit\source\repos\Doctor_Automation\Doctor_Automation\obj\Debug\Doctor_Automation.exe
+C:\Users\Dzenit\source\repos\Doctor_Automation\Doctor_Automation\obj\Debug\Doctor_Automation.pdb
+C:\Users\Dzenit\source\repos\Doctor_Automation\Doctor_Automation\obj\Debug\Doctor_Automation.FrmAnaEkran.resources
+C:\Users\Dzenit\source\repos\Doctor_Automation\Doctor_Automation\obj\Debug\Doctor_Automation.FrmGecmisTahliller.resources
+C:\Users\Dzenit\source\repos\Doctor_Automation\Doctor_Automation\obj\Debug\Doctor_Automation.FrmGiris.resources
+C:\Users\Dzenit\source\repos\Doctor_Automation\Doctor_Automation\obj\Debug\Doctor_Automation.FrmHesap.resources
+C:\Users\Dzenit\source\repos\Doctor_Automation\Doctor_Automation\obj\Debug\Doctor_Automation.FrmMuayene.resources
+C:\Users\Dzenit\source\repos\Doctor_Automation\Doctor_Automation\obj\Debug\Doctor_Automation.FrmRapor.resources
+C:\Users\Dzenit\source\repos\Doctor_Automation\Doctor_Automation\obj\Debug\Doctor_Automation.FrmRecete.resources
+C:\Users\Dzenit\source\repos\Doctor_Automation\Doctor_Automation\obj\Debug\Doctor_Automation.FrmTahlil.resources
