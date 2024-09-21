@@ -13,3 +13,7 @@ The "Doctor Automation System" is likely designed to facilitate communication be
 2. Appointment Management: Patients can book and manage appointments with doctors.
 3. Patient Records: Doctors can view and update patients' medical histories.
 4. Medication Tracking: The system can track the medications taken by patients, including dosages.
+<br><br>
+
+🧰 Languages & Tools
+<img width= "100" heigh="100" src="(https://github.com/user-attachments/assets/7ed50460-e215-4b73-b803-9c8e793bfbfb)"> 
