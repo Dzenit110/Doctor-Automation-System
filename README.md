@@ -16,4 +16,5 @@ The "Doctor Automation System" is likely designed to facilitate communication be
 <br><br>
 
 🧰 Languages & Tools
-<img width= "100" heigh="100" src="(https://github.com/user-attachments/assets/7ed50460-e215-4b73-b803-9c8e793bfbfb)"> 
+
+![C# (CSharp)](https://github.com/user-attachments/assets/06d94456-244c-4e4d-bf60-45d456418158)
